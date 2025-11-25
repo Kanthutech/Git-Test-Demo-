@@ -2,5 +2,9 @@ package PageObjects;
 
 public class NewClass {
 
-    //lets push this class
+
+    public void TestDemo() {
+        System.out.println("Print it ");
+    }
+
 }
